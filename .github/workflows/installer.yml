@@ -30,6 +30,7 @@ jobs:
           - vayu-tianma
           # sm8250
           - lmi
+          - apollo
           # sm8550
           - fuxi
           # sm7325
